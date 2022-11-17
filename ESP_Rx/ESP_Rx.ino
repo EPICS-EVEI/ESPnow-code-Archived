@@ -1,7 +1,5 @@
 #include <esp_now.h>
 #include <WiFi.h>
-#include "soc/soc.h"
-#include "soc/rtc.h"
 
 //WRITE_PERI_REG(RTC_CNTL_BROWN_OUT_REG, 0);
 

@@ -3,8 +3,6 @@
 #include <stdint.h>
 #include <esp_now.h>
 #include <WiFi.h>
-#include "soc/soc.h"
-#include "soc/rtc.h"
 
 int rand_int;
 float test_float;
